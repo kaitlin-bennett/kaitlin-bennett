@@ -1,6 +1,7 @@
 ### Hi there 👋, My name is Kaitlin Bennett
 #### I am an enthusiastic newbie in the data science world
-![I am an enthusiastic newbie in the data science world](https://media.giphy.com/media/ojmB7lOn3VUU8/giphy.gif)
+![I am an enthusiastic newbie in the data science world](https://media.giphy.com/media/10t0Rjkv7wEAAo/giphy.gif)
+
 
 I have my BS in Business Marketing and have been studying data science through MIT's data science boot camp. I am very much looking forward to finding a job in this field so I can continue to do what I love!
 
@@ -19,6 +20,5 @@ Skills: Python / Machine Learning / Recommender Systems / Unsupervised and Super
 - 📫 How to reach me: www.linkedin.com/in/kaitlin-bennett-97559533
 - ⚡ Fun fact: I love to hike outdoors and want to travel the U.S. in an RV!
 
-#### I am an enthusiastic newbie in the data science world
 ![I am an enthusiastic newbie in the data science world](https://media.giphy.com/media/D6iwpjWHrGt3LoYphZ/giphy.gif)
 
